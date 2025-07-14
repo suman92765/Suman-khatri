@@ -1,2 +1,1 @@
-# Suman-khatri
-About School (demo webpage)
+web development training.
